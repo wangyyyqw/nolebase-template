@@ -20,8 +20,8 @@ hero:
       text: 加入 Discord 服务器
       link: https://discord.gg/QFk7d7Pk
     - theme: alt
-      text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
+      text: 加入 Telegram 群组
+      link: https://t.me/+Sw4_f6TVUu0xYWMx
 ---
 
 <HomePage />
