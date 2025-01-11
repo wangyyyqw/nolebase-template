@@ -1,6 +1,6 @@
 ---
 layout: home
-sidebar: false
+sidebar: ftrue
 
 title: 游侠客
 titleTemplate: 记录回忆，知识和畅想的地方
